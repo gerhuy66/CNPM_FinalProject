@@ -3425,7 +3425,7 @@
 									"font": "Arial;20;1",
 									"left": 488,
 									"top": 197,
-									"width": 264.482421875,
+									"width": 274.1015625,
 									"height": 20,
 									"text": "Agricultural"
 								},
@@ -3451,7 +3451,7 @@
 											"font": "Arial;20;0",
 											"left": 493,
 											"top": 227,
-											"width": 254.482421875,
+											"width": 264.1015625,
 											"height": 20
 										},
 										{
@@ -3466,7 +3466,7 @@
 											"font": "Arial;20;0",
 											"left": 493,
 											"top": 249,
-											"width": 254.482421875,
+											"width": 264.1015625,
 											"height": 20
 										},
 										{
@@ -3481,7 +3481,7 @@
 											"font": "Arial;20;0",
 											"left": 493,
 											"top": 271,
-											"width": 254.482421875,
+											"width": 264.1015625,
 											"height": 20
 										},
 										{
@@ -3496,21 +3496,21 @@
 											"font": "Arial;20;0",
 											"left": 493,
 											"top": 293,
-											"width": 254.482421875,
+											"width": 264.1015625,
 											"height": 20
 										}
 									],
 									"font": "Arial;20;0",
 									"left": 488,
 									"top": 222,
-									"width": 264.482421875,
+									"width": 274.1015625,
 									"height": 96
 								}
 							],
 							"font": "Arial;20;0",
 							"left": 488,
 							"top": 192,
-							"width": 264.482421875,
+							"width": 274.1015625,
 							"height": 126,
 							"nameLabel": {
 								"$ref": "AAAAAAFxGzBHC6XEJD8="
@@ -3538,7 +3538,7 @@
 									"font": "Arial;20;1",
 									"left": 248,
 									"top": 445,
-									"width": 172.265625,
+									"width": 250.791015625,
 									"height": 20,
 									"text": "user"
 								},
@@ -3564,7 +3564,7 @@
 											"font": "Arial;20;0",
 											"left": 253,
 											"top": 475,
-											"width": 162.265625,
+											"width": 240.791015625,
 											"height": 20
 										},
 										{
@@ -3579,7 +3579,7 @@
 											"font": "Arial;20;0",
 											"left": 253,
 											"top": 497,
-											"width": 162.265625,
+											"width": 240.791015625,
 											"height": 20
 										},
 										{
@@ -3594,21 +3594,21 @@
 											"font": "Arial;20;0",
 											"left": 253,
 											"top": 519,
-											"width": 162.265625,
+											"width": 240.791015625,
 											"height": 20
 										}
 									],
 									"font": "Arial;20;0",
 									"left": 248,
 									"top": 470,
-									"width": 172.265625,
+									"width": 250.791015625,
 									"height": 74
 								}
 							],
 							"font": "Arial;20;0",
 							"left": 248,
 							"top": 440,
-							"width": 172.265625,
+							"width": 250.791015625,
 							"height": 104,
 							"nameLabel": {
 								"$ref": "AAAAAAFxGzCQWqXRxTU="
@@ -3636,7 +3636,7 @@
 									"font": "Arial;20;1",
 									"left": 528,
 									"top": 477,
-									"width": 201.1328125,
+									"width": 279.658203125,
 									"height": 20,
 									"text": "Farmer"
 								},
@@ -3662,21 +3662,21 @@
 											"font": "Arial;20;0",
 											"left": 533,
 											"top": 507,
-											"width": 191.1328125,
+											"width": 269.658203125,
 											"height": 20
 										}
 									],
 									"font": "Arial;20;0",
 									"left": 528,
 									"top": 502,
-									"width": 201.1328125,
+									"width": 279.658203125,
 									"height": 30
 								}
 							],
 							"font": "Arial;20;0",
 							"left": 528,
 							"top": 472,
-							"width": 201.1328125,
+							"width": 279.658203125,
 							"height": 60,
 							"nameLabel": {
 								"$ref": "AAAAAAFxGzC3FKXeTMM="
@@ -3704,7 +3704,7 @@
 									"font": "Arial;20;1",
 									"left": 840,
 									"top": 205,
-									"width": 287.79296875,
+									"width": 297.412109375,
 									"height": 20,
 									"text": "shop"
 								},
@@ -3730,7 +3730,7 @@
 											"font": "Arial;20;0",
 											"left": 845,
 											"top": 235,
-											"width": 277.79296875,
+											"width": 287.412109375,
 											"height": 20
 										},
 										{
@@ -3745,7 +3745,7 @@
 											"font": "Arial;20;0",
 											"left": 845,
 											"top": 257,
-											"width": 277.79296875,
+											"width": 287.412109375,
 											"height": 20
 										},
 										{
@@ -3760,21 +3760,21 @@
 											"font": "Arial;20;0",
 											"left": 845,
 											"top": 279,
-											"width": 277.79296875,
+											"width": 287.412109375,
 											"height": 20
 										}
 									],
 									"font": "Arial;20;0",
 									"left": 840,
 									"top": 230,
-									"width": 287.79296875,
+									"width": 297.412109375,
 									"height": 74
 								}
 							],
 							"font": "Arial;20;0",
 							"left": 840,
 							"top": 200,
-							"width": 287.79296875,
+							"width": 297.412109375,
 							"height": 104,
 							"nameLabel": {
 								"$ref": "AAAAAAFxGzDgyqXrgII="
@@ -3802,7 +3802,7 @@
 									"font": "Arial;20;1",
 									"left": 872,
 									"top": 517,
-									"width": 217,
+									"width": 218.5546875,
 									"height": 20,
 									"text": "Location"
 								},
@@ -3828,7 +3828,7 @@
 											"font": "Arial;20;0",
 											"left": 877,
 											"top": 547,
-											"width": 207,
+											"width": 208.5546875,
 											"height": 20
 										},
 										{
@@ -3843,21 +3843,21 @@
 											"font": "Arial;20;0",
 											"left": 877,
 											"top": 569,
-											"width": 207,
+											"width": 208.5546875,
 											"height": 20
 										}
 									],
 									"font": "Arial;20;0",
 									"left": 872,
 									"top": 542,
-									"width": 217,
+									"width": 218.5546875,
 									"height": 52
 								}
 							],
 							"font": "Arial;20;0",
 							"left": 872,
 							"top": 512,
-							"width": 217,
+							"width": 218.5546875,
 							"height": 82,
 							"nameLabel": {
 								"$ref": "AAAAAAFxGzD0vKX4JnU="
@@ -3965,7 +3965,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 473,
+									"left": 513,
 									"top": 483,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3982,7 +3982,7 @@
 										"$ref": "AAAAAAFxGzVnY6Zamf0="
 									},
 									"font": "Arial;13;0",
-									"left": 444,
+									"left": 523,
 									"top": 483,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -4017,7 +4017,7 @@
 								"$ref": "AAAAAAFxGzCQWqXQMa4="
 							},
 							"lineStyle": 2,
-							"points": "419:504;528:504",
+							"points": "498:504;528:504",
 							"nameLabel": {
 								"$ref": "AAAAAAFxGzVnY6ZbWI8="
 							},
@@ -4208,7 +4208,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 794,
+									"left": 799,
 									"top": 262,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4242,7 +4242,7 @@
 										"$ref": "AAAAAAFxHStqM6tBp3c="
 									},
 									"font": "Arial;13;0",
-									"left": 776,
+									"left": 786,
 									"top": 261,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -4260,7 +4260,7 @@
 								"$ref": "AAAAAAFxGzDgyqXqk54="
 							},
 							"lineStyle": 2,
-							"points": "840:253;751:253",
+							"points": "840:253;761:253",
 							"nameLabel": {
 								"$ref": "AAAAAAFxHStqNKtCbLY="
 							},
@@ -4387,7 +4387,7 @@
 										"$ref": "AAAAAAFxHS1796vQOEg="
 									},
 									"font": "Arial;13;0",
-									"left": 753,
+									"left": 832,
 									"top": 488,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -4422,7 +4422,7 @@
 								"$ref": "AAAAAAFxGzC3FKXdhzw="
 							},
 							"lineStyle": 2,
-							"points": "728:509;909:509;909:303",
+							"points": "807:509;909:509;909:303",
 							"nameLabel": {
 								"$ref": "AAAAAAFxHS1796vRNM8="
 							},
@@ -4508,8 +4508,8 @@
 								"$ref": "AAAAAAFxGy9YIqVo06o="
 							},
 							"name": "traderRank",
-							"type": "String",
-							"length": 0
+							"type": "VARCHAR",
+							"length": "100"
 						},
 						{
 							"_type": "ERDColumn",
@@ -4518,7 +4518,8 @@
 								"$ref": "AAAAAAFxGy9YIqVo06o="
 							},
 							"name": "Credibility",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "100"
 						}
 					]
 				},
@@ -4578,7 +4579,8 @@
 								"$ref": "AAAAAAFxGzBHCaXBrkI="
 							},
 							"name": "Name",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						},
 						{
 							"_type": "ERDColumn",
@@ -4587,7 +4589,8 @@
 								"$ref": "AAAAAAFxGzBHCaXBrkI="
 							},
 							"name": "Description",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						},
 						{
 							"_type": "ERDColumn",
@@ -4596,7 +4599,8 @@
 								"$ref": "AAAAAAFxGzBHCaXBrkI="
 							},
 							"name": "OriginCode",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						}
 					]
 				},
@@ -4644,7 +4648,8 @@
 								"$ref": "AAAAAAFxGzCQWaXObN8="
 							},
 							"name": "TID",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						},
 						{
 							"_type": "ERDColumn",
@@ -4653,7 +4658,8 @@
 								"$ref": "AAAAAAFxGzCQWaXObN8="
 							},
 							"name": "fistname",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						},
 						{
 							"_type": "ERDColumn",
@@ -4662,7 +4668,8 @@
 								"$ref": "AAAAAAFxGzCQWaXObN8="
 							},
 							"name": "lastname",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						}
 					]
 				},
@@ -4740,8 +4747,8 @@
 								"$ref": "AAAAAAFxGzC3FKXbvXQ="
 							},
 							"name": "Productivity",
-							"type": "string",
-							"length": 0
+							"type": "VARCHAR",
+							"length": "50"
 						}
 					]
 				},
@@ -4827,7 +4834,8 @@
 								"$ref": "AAAAAAFxGzDgyqXocUM="
 							},
 							"name": "Name",
-							"type": "string"
+							"type": "VARCHAR",
+							"length": "50"
 						},
 						{
 							"_type": "ERDColumn",
@@ -4866,8 +4874,8 @@
 								"$ref": "AAAAAAFxGzD0vKX12/c="
 							},
 							"name": "Name",
-							"type": "string",
-							"length": 0
+							"type": "VARCHAR",
+							"length": "50"
 						}
 					]
 				}
